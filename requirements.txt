@@ -1,0 +1,4 @@
+Pillow==10.1.0
+python-nmap==0.7.1
+PyX==0.16
+scapy==2.5.0
