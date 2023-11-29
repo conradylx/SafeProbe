@@ -1,5 +1,5 @@
-https://img.shields.io/badge/Scapy-2_5_0
-https://img.shields.io/badge/Nmap-0
+![Scapy](https://img.shields.io/badge/Scapy-2_5_0)
+![Nmap](https://img.shields.io/badge/Nmap-0)
 # SafeProbe
 SafeProbe is a Python script for analyzing network traffic and checking open ports on specified hosts using Scapy and Nmap.
 
